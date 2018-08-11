@@ -1,0 +1,9 @@
+.output {
+    padding: 2rem;
+    border: 0.1rem red solid;
+    color:red;
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width:50%;
+    margin: auto;
+}
